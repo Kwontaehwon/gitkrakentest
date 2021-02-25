@@ -1,3 +1,5 @@
 new
 
 edit more and more
+
+commit --amend.
